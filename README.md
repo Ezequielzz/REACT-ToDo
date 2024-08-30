@@ -1,6 +1,6 @@
 
 
-### 1. Objetivos SMART (Reformulados)
+### 1. Objetivos SMART
 
 **S** (Específico): Desenvolver uma aplicação de To-Do List para os colaboradores da Escola SENAI, visando melhorar a organização e gestão das tarefas diárias de forma segura, intuitiva e acessível, com foco em aumentar a produtividade, reduzir esquecimentos de tarefas e facilitar a priorização das atividades.
 
