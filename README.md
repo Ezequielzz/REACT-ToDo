@@ -1,6 +1,12 @@
+### 1. Escopo Funcional
 
+O sistema To-Do List deve oferecer funcionalidades que permitam aos colaboradores da Escola SENAI gerenciar suas tarefas diárias de maneira eficaz. Especificamente, o sistema deve permitir a criação, edição, exclusão e priorização de tarefas. Os usuários devem poder atribuir prazos e níveis de prioridade às tarefas, bem como receber lembretes automatizados por meio de notificações. Além disso, o sistema deve oferecer a possibilidade de organizar as tarefas em listas ou categorias, facilitando a visualização e a gestão das atividades. A aplicação deve também possibilitar a sincronização de tarefas entre dispositivos para que os usuários possam acessar e gerenciar suas tarefas em qualquer lugar. Finalmente, é necessário que o sistema forneça relatórios de produtividade, permitindo que os usuários visualizem seu progresso ao longo do tempo.
 
-### 1. Objetivos SMART
+### 2. Escopo Não Funcional
+
+Além das funcionalidades básicas, o sistema deve se destacar pela sua performance, segurança e acessibilidade. O sistema deve ser responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos, desde smartphones até desktops. A usabilidade deve ser uma prioridade, garantindo que o sistema seja intuitivo e fácil de usar, independentemente do nível de habilidade técnica dos colaboradores. Em termos de performance, o sistema deve ser capaz de lidar com múltiplos usuários simultâneos sem perda de desempenho, e deve ser otimizado para carregar rapidamente, mesmo em conexões de internet mais lentas. A segurança dos dados é essencial, portanto, o sistema deve incorporar práticas de segurança robustas, como criptografia de dados e autenticação forte, para proteger as informações dos usuários contra acessos não autorizados. A escalabilidade do sistema também deve ser considerada, permitindo que o sistema cresça conforme a demanda aumenta, sem a necessidade de grandes reconfigurações. Por fim, o sistema deve ser confiável, com um tempo de inatividade mínimo e mecanismos de backup para evitar perda de dados.
+
+### 3. Objetivos SMART
 
 **S** (Específico): Desenvolver uma aplicação de To-Do List para os colaboradores da Escola SENAI, visando melhorar a organização e gestão das tarefas diárias de forma segura, intuitiva e acessível, com foco em aumentar a produtividade, reduzir esquecimentos de tarefas e facilitar a priorização das atividades.
 
@@ -37,7 +43,7 @@
   - Ampliar a base de usuários para 90% de adesão até o final do primeiro ano.
   - Introduzir uma funcionalidade de relatórios de produtividade até o sexto mês, com o objetivo de fornecer insights sobre o uso da aplicação e auxiliar na melhoria contínua do processo.
 
-### 2. Cronograma
+### 4. Cronograma
 
 1. **Mês 1: Planejamento e Design**
    - Semana 1: Levantamento de requisitos e definição do escopo.
@@ -61,7 +67,7 @@
    - Metodologia ágil (contato constante com o cliente) para permitir flexibilidade durante o desenvolvimento e a adaptação a imprevistos.
 
 
-### 3. Análise de Risco
+### 5. Análise de Risco
 
 1. **Risco:** Atrasos no cronograma devido a mudanças de requisitos.
    - **Causa:** Alterações de escopo, requisitos não claros ou falta de comunicação entre as partes interessadas.
@@ -108,7 +114,7 @@
      - Realizar testes de carga e stress para identificar pontos críticos.
      - Ajustar a escalabilidade da infraestrutura para lidar com aumentos de demanda.
 
-### 4. Recursos
+### 6. Recursos
 
 1. **Equipe:**
    - Gerenciamento
@@ -132,7 +138,7 @@
    - Custos de hospedagem e manutenção do servidor.
    - Remuneração da equipe.
 
-### 5. Recursos Humanos
+### 7. Recursos Humanos
 
 ### Equipe de Gerenciamento
 
@@ -196,4 +202,4 @@
 **Componentes:**
 - **Especialista em Segurança Sênior:** Realiza auditorias, testa vulnerabilidades e define diretrizes de segurança para o desenvolvimento.
 - **Especialista em Segurança Pleno:** Executa testes de penetração, revisa o código para detectar falhas de segurança e implementa correções.
-- **Especialista em Segurança Júnior:** Dá suporte nas auditorias e monitora alertas de vulnerabilidades.# REACT-ToDo
+- **Especialista em Segurança Júnior:** Dá suporte nas auditorias e monitora alertas de vulnerabilidades.
